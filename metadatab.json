@@ -1,0 +1,22 @@
+{
+  "name": "B Shares",
+  "symbol": "BRDY-B",
+  "uri": "https://raw.githubusercontent.com/taikioishi/sta/refs/heads/main/metadata-b.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "6conwFGMFkuyKUS4sAnwJwf7yjoznp99vL8gqtS2zPFT",
+      "share": 100,
+      "verified": true
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/taikioishi/sta/refs/heads/main/BRDY-logos%20copy.jpeg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
