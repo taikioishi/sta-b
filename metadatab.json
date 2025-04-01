@@ -9,14 +9,3 @@
       "share": 100,
       "verified": true
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://github.com/taikioishi/sta-b/blob/c36734cf17df89ba72b19015f8c6958a48003da4/BRDY-logos%20copy.jpeg",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
-}
