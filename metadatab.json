@@ -3,6 +3,7 @@
   "symbol": "BRDY-B",
   "uri": "https://raw.githubusercontent.com/taikioishi/sta-b/refs/heads/main/metadatab.json",
   "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/taikioishi/sta-b/main/BRDY-logo.png",
   "creators": [
     {
       "address": "6conwFGMFkuyKUS4sAnwJwf7yjoznp99vL8gqtS2zPFT",
@@ -13,7 +14,7 @@
   "properties": {
     "files": [
       {
-        "image": "https://raw.githubusercontent.com/taikioishi/sta-b/main/BRDY-logo.png"",
+        "uri": "https://raw.githubusercontent.com/taikioishi/sta-b/main/BRDY-logo.png",
         "type": "image/png"
       }
     ],
