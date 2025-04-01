@@ -1,7 +1,7 @@
 {
   "name": "B Shares",
   "symbol": "BRDY-B",
-  "uri": "https://raw.githubusercontent.com/taikioishi/sta/refs/heads/main/metadata.json",
+  "uri": "https://raw.githubusercontent.com/taikioishi/sta-b/refs/heads/main/metadatab.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
