@@ -1,7 +1,7 @@
 {
   "name": "B Shares",
   "symbol": "BRDY-B",
-  "uri": "https://github.com/taikioishi/sta-b/blob/2f670d38c6a378b9d2f6b2d0c2eeed532a5c3c6f/metadatab.json",
+  "uri": "https://raw.githubusercontent.com/taikioishi/sta/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -9,5 +9,14 @@
       "share": 100,
       "verified": true
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/taikioishi/sta/refs/heads/main/BRDY-logos%20copy.jpeg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
